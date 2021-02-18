@@ -1,0 +1,11 @@
+C:\Users\Juan\Source\Repos\Montante\Montante\bin\Debug\netcoreapp3.1\Montante.exe
+C:\Users\Juan\Source\Repos\Montante\Montante\bin\Debug\netcoreapp3.1\Montante.deps.json
+C:\Users\Juan\Source\Repos\Montante\Montante\bin\Debug\netcoreapp3.1\Montante.runtimeconfig.json
+C:\Users\Juan\Source\Repos\Montante\Montante\bin\Debug\netcoreapp3.1\Montante.runtimeconfig.dev.json
+C:\Users\Juan\Source\Repos\Montante\Montante\bin\Debug\netcoreapp3.1\Montante.dll
+C:\Users\Juan\Source\Repos\Montante\Montante\bin\Debug\netcoreapp3.1\Montante.pdb
+C:\Users\Juan\Source\Repos\Montante\Montante\obj\Debug\netcoreapp3.1\Montante.csprojAssemblyReference.cache
+C:\Users\Juan\Source\Repos\Montante\Montante\obj\Debug\netcoreapp3.1\Montante.AssemblyInfoInputs.cache
+C:\Users\Juan\Source\Repos\Montante\Montante\obj\Debug\netcoreapp3.1\Montante.AssemblyInfo.cs
+C:\Users\Juan\Source\Repos\Montante\Montante\obj\Debug\netcoreapp3.1\Montante.dll
+C:\Users\Juan\Source\Repos\Montante\Montante\obj\Debug\netcoreapp3.1\Montante.pdb
